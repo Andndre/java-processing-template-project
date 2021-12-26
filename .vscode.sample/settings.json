@@ -1,0 +1,11 @@
+{
+  "java.project.sourcePaths": [
+      "src"
+  ],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+      "lib/**/*.jar",
+      // TODO: change this line
+      "path/to/processing/core/library/core.jar"
+  ]
+}
